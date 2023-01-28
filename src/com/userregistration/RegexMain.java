@@ -9,6 +9,7 @@ public class RegexMain {
 	        regex.validFirstName();
 	        regex.validLastName();
 	        regex.validEmail();
+	        regex.validContactNumber();
 	    }
 	
 }
